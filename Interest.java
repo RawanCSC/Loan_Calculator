@@ -4,7 +4,7 @@ public class Interest {
     public static void main(String[] args)
     {
 
-        int interest =5 
+        int interest = 5;
 
         System.out.println(interest);
 
