@@ -7,3 +7,6 @@ This is a team project
 * This one
 * Two
 * three
+  - one
+  - two
+  - three
