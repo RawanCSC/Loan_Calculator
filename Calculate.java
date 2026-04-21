@@ -9,6 +9,11 @@ public class Calculate {
 
         int c = x * y ; 
 
+        int z = x + y ;
+
         System.out.println(c);
+
+        System.out.println(z);
+
     }
 }
