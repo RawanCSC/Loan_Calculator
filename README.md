@@ -1,4 +1,4 @@
-# Loan_Calculator
+# Loan Calculator Project
 
 ## This is only a try and maybe will delete later
 
